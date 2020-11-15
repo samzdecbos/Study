@@ -1,0 +1,2 @@
+D:\Study\Third course\OOPiP\lab_03\lab_03\Debug\lab_03.exe
+D:\Study\Third course\OOPiP\lab_03\lab_03\Debug\lab_03.pdb

@@ -1,0 +1,11 @@
+﻿  lab_03.cpp
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(231,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(232,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(233,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(234,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(239,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(240,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(241,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(242,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Third course\OOPiP\lab_03\lab_03\lab_03.cpp(267,7): warning C4101: shop: неиспользованная локальная переменная
+  lab_03.vcxproj -> D:\Study\Third course\OOPiP\lab_03\lab_03\Debug\lab_03.exe

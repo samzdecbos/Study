@@ -1,0 +1,7 @@
+﻿  lab_02.cpp
+D:\Study\Third course\MMIPiU\lab_02\lab_02\lab_02.cpp(48,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\Third course\MMIPiU\lab_02\lab_02\lab_02.cpp(91,36): warning C4305: аргумент: усечение из "double" в "float"
+D:\Study\Third course\MMIPiU\lab_02\lab_02\lab_02.cpp(92,51): warning C4305: аргумент: усечение из "double" в "float"
+D:\Study\Third course\MMIPiU\lab_02\lab_02\lab_02.cpp(96,51): warning C4305: аргумент: усечение из "double" в "float"
+D:\Study\Third course\MMIPiU\lab_02\lab_02\lab_02.cpp(97,52): warning C4305: аргумент: усечение из "double" в "float"
+  lab_02.vcxproj -> D:\Study\Third course\MMIPiU\lab_02\lab_02\Debug\lab_02.exe
